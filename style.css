@@ -80,3 +80,18 @@ body {
   align-items: center;
   padding: 15px 25px;
 }
+
+.socialmedia div {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 20px;
+}
+
+.socialmedia div i {
+  color: white;
+  cursor: pointer;
+}
+
+.socialmedia div i:hover {
+  color: #aaa;
+}

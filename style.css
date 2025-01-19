@@ -32,12 +32,7 @@ body {
   justify-content: center;
   background: url("Images/pexels-kyle-miller-169884138-15447422.jpg") no-repeat
     center center/cover;
-  color: white;
+  color: whitesmoke;
   text-align: center;
   padding: 0 20px;
-}
-
-.landing-page h1 {
-  font-size: 50px;
-  margin-bottom: 15px;
 }

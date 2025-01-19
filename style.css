@@ -71,3 +71,12 @@ body {
   text-align: center;
   background-color: lightseagreen;
 }
+
+.footer {
+  background-color: black;
+  color: skyblue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 25px;
+}

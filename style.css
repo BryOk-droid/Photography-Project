@@ -53,3 +53,15 @@ body {
   grid-template-rows: repeat(3, auto);
   background-color: lightgray;
 }
+
+.image-gallery div {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.image-gallery img {
+  width: 280px;
+  height: 280px;
+  border-radius: 8px;
+}

@@ -18,3 +18,8 @@ body {
   padding: 10px 20px;
   font-size: 15px;
 }
+
+.navbar a:hover {
+  background-color: grey;
+  border-radius: 5px;
+}
